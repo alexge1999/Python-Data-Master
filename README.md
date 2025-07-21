@@ -1,13 +1,15 @@
 # Proyecto EDA en Python – Máster Data Analytics
 
-Este proyecto forma parte del Máster en Data Analytics y tiene como objetivo aplicar análisis exploratorio de datos sobre campañas de marketing bancario.
+Este repositorio contiene un análisis exploratorio completo realizado con Python como parte de mi formación en el Máster de Data Analytics.
+El objetivo principal del proyecto es aplicar los conocimientos adquiridos sobre análisis y visualización de datos para identificar patrones, relaciones y conclusiones útiles a partir de dos conjuntos de datos reales del ámbito bancario.
 
 ## Contenido
 
-- Limpieza y transformación de datos
-- Análisis descriptivo y visual
-- Cruce de variables con la variable objetivo (`y`)
-- Análisis temporal y correlación
+- Limpieza y transformación de datos.
+- Análisis descriptivo y exploratorio.
+- Visualización de variables categóricas y numéricas.
+- Identificación de factores que influyen en la suscripción de productos financieros.
+- Análisis de variables temporales y comportamiento de clientes.
 
 ## Estructura
 
@@ -16,7 +18,9 @@ Este proyecto forma parte del Máster en Data Analytics y tiene como objetivo ap
 
 ## Herramientas
 
-Python · Pandas · Seaborn · Matplotlib
+Python
+Pandas
+Visual Studio
 
 ## Autor
 
